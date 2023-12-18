@@ -21,7 +21,7 @@
 
 <h2>Recursos Utilizados</h2>
 <ul>
-    <li>Python 3.x</li>
+    <li>Python 3.11.3</li>
     <li>IDE o entorno de desarrollo</li>
 </ul>
 
